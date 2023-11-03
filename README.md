@@ -1,0 +1,2 @@
+- the course homework for CS57300 in Purdue.
+- main tasks are to implement some basic ML algorithms.
